@@ -1,0 +1,8 @@
+/node_modules/
+/build/
+/public/
+/packages/
+/scripts/
+/src/assets/
+**/*.config.js
+**/*.d.ts

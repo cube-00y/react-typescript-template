@@ -1,4 +1,4 @@
-# Foodlens-Sales-Platform DOCS
+# React Typescript Template
 
 ## Tech Stack
 ```
@@ -8,6 +8,3 @@ ReduxToolKit
 Emotion
 + Other
 ```
-
-## Code Convention (ESLint 등)
- - 
